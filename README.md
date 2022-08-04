@@ -1,4 +1,4 @@
-- 👋 Hi I'm @Franberenguer
+- 👋 Hi I'm @franberenguer
 - 👀 I'm interested in technology
 - 🌱 I am currently learning web development
 - 💞️ I'm looking to collaborate on github
