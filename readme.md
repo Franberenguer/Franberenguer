@@ -5,6 +5,6 @@
 - 📫 How to contact me by phone
 
 <!---
-Franberenguer/Franberenguer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+franberenguer/franberenguer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to see the changes.
 --->
